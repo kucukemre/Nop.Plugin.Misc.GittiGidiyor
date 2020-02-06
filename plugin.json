@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Misc",
+  "FriendlyName": "GittiGidiyor",
+  "SystemName": "Misc.GittiGidiyor",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.20" ],
+  "Author": "Emre Küçük - dakikemre@gmail.com",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.GittiGidiyor.dll",
+  "Description": "This plugin allows to integrate with GittiGidiyor Api for nopCommerce v4.20 on .NET Core"
+}
